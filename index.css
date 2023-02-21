@@ -1,4 +1,13 @@
-body {
-    background-color: red;
-  }
-  
+#midasi {
+  text-align: center;
+}
+
+.yoko-layout {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#news {
+  background-color: gray;
+}
